@@ -55,7 +55,7 @@ The API requires user authentication for certain endpoints.
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
 ## 👤 Authors
-- [Your Name](https://github.com/yourprofile)
+- [Arnava Kumar Sinha](https://github.com/ARNAVSINHA1)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
